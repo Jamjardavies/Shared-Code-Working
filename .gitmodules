@@ -1,0 +1,6 @@
+[submodule "Assets/Plugins/SceneManager"]
+	path = Assets/Plugins/SceneManager
+	url = git@github.com:Jamjardavies/SceneManager.git
+[submodule "Assets/Plugins/ViewController"]
+	path = Assets/Plugins/ViewController
+	url = git@github.com:Jamjardavies/ViewController.git
